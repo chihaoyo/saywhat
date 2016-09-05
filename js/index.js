@@ -1,3 +1,4 @@
+// partially adapted from https://github.com/yutin1987/lyword/tree/gh-pages
 var size = {w: 720, h: 300};
 var fill = d3.scaleOrdinal(d3.schemeCategory20);
 var layout = d3.layout.cloud()
